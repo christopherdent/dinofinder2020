@@ -35,7 +35,7 @@ componentDidMount(){
           </Jumbotron>
 
       <Switch>
-          <Route exact path='/' component={ErasContainer} />
+          <Route exact path='/dinofinder2020' component={ErasContainer} />
           <Route exact path='/:name/dino_types' component={DinoTypesContainer} />
           <Route exact path='/:name/dinosaurs' component={DinosaursContainer} />
           <Route exact path='/dinosaurs/new' component={DinosaurInput} />
