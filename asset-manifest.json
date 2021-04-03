@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/dinofinder2020/static/js/main.821e7552.chunk.js",
+    "main.js.map": "/dinofinder2020/static/js/main.821e7552.chunk.js.map",
+    "runtime-main.js": "/dinofinder2020/static/js/runtime-main.881cf015.js",
+    "runtime-main.js.map": "/dinofinder2020/static/js/runtime-main.881cf015.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/dinofinder2020/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.72b5c338.chunk.js": "/dinofinder2020/static/js/2.72b5c338.chunk.js",
+    "static/js/2.72b5c338.chunk.js.map": "/dinofinder2020/static/js/2.72b5c338.chunk.js.map",
+    "index.html": "/dinofinder2020/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/dinofinder2020/static/css/2.1a02f21c.chunk.css.map",
+    "static/js/2.72b5c338.chunk.js.LICENSE.txt": "/dinofinder2020/static/js/2.72b5c338.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881cf015.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.72b5c338.chunk.js",
+    "static/js/main.821e7552.chunk.js"
+  ]
+}
