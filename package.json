@@ -1,6 +1,6 @@
 {
-  "homepage": "https://christopherdent.github.io/dinofinder-frontend",
-  "name": "dinofinder-frontend",
+  "homepage": "https://christopherdent.github.io/dinofinder2020",
+  "name": "dinofinder2020",
   "version": "0.1.0",
   "engines": {
     "node": "14.15.3"
@@ -24,7 +24,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
