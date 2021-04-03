@@ -19,7 +19,7 @@ The back-end is powered by Ruby on Rails 6.0.3.2.
 
 The game is stored in two separate repositories, one for the back-end and one for the front-end.  
 
-Front-end:  https://github.com/christopherdent/dinofinder-frontend.git
+Front-end:  https://github.com/christopherdent/dinofinder2020.git
 Back-end:  https://github.com/christopherdent/dinofinder-backend.git
 
 Clone both repos into the same directory and navigate to the top level of the back-end.  From there, run `bundle install` to install the required gems.  
