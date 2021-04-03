@@ -4,7 +4,7 @@ DinoFinder2020 is a single page application (SPA) intended to help people (mainl
 
 This app uses a Rails API back-end with seed data and a PostgreSQL database, along with a React/Redux front-end.   
 
-You can see the app live here: https://christopherdent.github.io/dinofinder-frontend/
+You can see the app live here: https://christopherdent.github.io/dinofinder2020/
 
 ## The Front End  
 The front end is designed with JSX and CSS.  It uses Javascript 'fetch' requests to create, update, view or delete dinosaurs from a specific era and category.
@@ -15,16 +15,16 @@ There are Rails models for era, dinosaur type, and dinosaur.  An era `has many` 
 
 The back-end is powered by Ruby on Rails 6.0.3.2.  
 
-## How to Launch the Game in Your Local Environment
+## How to Launch the App in Your Local Environment
 
 The game is stored in two separate repositories, one for the back-end and one for the front-end.  
 
 Front-end:  https://github.com/christopherdent/dinofinder2020.git
+
 Back-end:  https://github.com/christopherdent/dinofinder-backend.git
 
 Clone both repos into the same directory and navigate to the top level of the back-end.  From there, run `bundle install` to install the required gems.  
 
 You will also need to start a PostgreSQL database by typing `rails db:create`,   run your migrations using `rails db:migrate`.
-
 
 Finally, enter `rails s` to start your local server and `npm start` in the front end directory to start the app.  
